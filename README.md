@@ -1,4 +1,4 @@
-# 2025113013-CPro-Project-25
+# 2025113013-CPro-Project-25-Mideval
 
 This repository contains my code submission for the CPro Project Mideval.
 
